@@ -319,10 +319,10 @@ jupyter notebook
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Prithwish Sahoo**
 
-- GitHub: [@shsarv]([https://github.com/shsarv](https://github.com/Prithwish-18))
-- LinkedIn: [in/shsarv](www.linkedin.com/in/prithwish-s-b66665343)
+- GitHub: [(https://github.com/Prithwish-18)]
+- LinkedIn: [(www.linkedin.com/in/prithwish-s-b66665343)]
 
 ---
 
