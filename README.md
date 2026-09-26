@@ -321,8 +321,8 @@ jupyter notebook
 
 **Sarvesh Kumar Sharma**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@shsarv]([https://github.com/shsarv](https://github.com/Prithwish-18))
+- LinkedIn: [in/shsarv](www.linkedin.com/in/prithwish-s-b66665343)
 
 ---
 
