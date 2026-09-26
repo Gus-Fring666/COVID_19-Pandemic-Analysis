@@ -321,8 +321,8 @@ jupyter notebook
 
 **Prithwish Sahoo**
 
-- GitHub: [(https://github.com/Prithwish-18)]
-- LinkedIn: [(www.linkedin.com/in/prithwish-s-b66665343)]
+- [GitHub](https://github.com/Prithwish-18)
+- [LinkedIn](https://www.linkedin.com/in/prithwish-s-b66665343)
 
 ---
 
